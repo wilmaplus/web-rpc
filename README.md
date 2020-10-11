@@ -1,4 +1,6 @@
-# Edison Web RPC
-Edison Web WebSocket server for login using an app
+# Wilma Plus RPC
+Wilma Plu Web WebSocket server for login using an app
 
-Edison Web RPC is made for Edison Web [project](https://github.com/developerfromjokela/edison-web)
+Wilma Plus Web RPC is made for upcoming web version of [Wilma Plus](https://wilmaplus.fi) mobile app.
+
+__`Wilma Plus Web RPC` is a fork from Edison Web RPC [project](https://github.com/developerfromjokela/edison-web-rpc)__
